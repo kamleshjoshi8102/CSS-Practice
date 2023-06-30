@@ -1,0 +1,192 @@
+body{
+    
+}
+ .ass-1{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    height: 100vh;
+ }
+ .ass-2{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    height: 100vh;
+ }
+ .ass-3{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    height: 100vh;
+ }
+ .ass-4{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    height: 100vh;
+ }
+.card{
+    width: 590px;
+    height: 450px;
+    background-color: #3ded97;
+    border-radius: 10px;
+}
+.card>h1{
+    font-size:45px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding:120px 70px 0 70px;
+}
+.card>p{
+    padding:0 70px 0 70px;
+    font-size: 16px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.card>button{
+    border-radius: 30px;
+    background-color: white;
+    outline: none;
+    border:none;
+    padding: 14px 32px;
+    font-family:Arial, Helvetica, sans-serif;
+    /* font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
+    padding: 10px 40px 10px 40px;
+    font-size:20px;
+    /* margin-right: 80px; */
+}
+.idea{
+    margin : 10px 65px;
+    /* padding: 14px 32px; */
+}
+
+/* Second assignment */
+
+.profiles{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 2px solid rgb(192, 191, 191);
+    height: 435px;
+    width: 700px;
+    border-radius: 10px;
+}   
+
+.profiles>h3{
+    font-size: 40px;
+    padding: 0px 30px 0px 30px;
+}
+.profiles>p{
+    margin-top:-20px;
+    padding: 0 30px;
+    font-size: 28px;
+    color:rgb(73, 70, 70);
+}
+ 
+.img1{
+    /* padding: 10px; */
+    height: 100px;
+    width: 100px;
+    margin:20px 80px;
+
+    border-radius: 50%;
+}
+.img2{
+    width: 100px;
+    /* padding: 10px; */
+    margin:20px 30px;
+    height: 100px;
+    /* width: auto; */
+    border-radius: 50%;
+}
+
+.prof{
+    margin-top: 20px !important;
+    font-size: 20px !important;
+    padding: 0px 30px !important;
+    color:#1d7fcf !important;
+}
+.card-login{
+    text-align: center;
+}
+.flodesk{
+    font-size: 60px;
+}
+.welcome{
+    text-align: center;
+    font-size:20px;
+    margin:0 0 30px 0;
+}
+input{
+    border-radius: 8px;
+    font-size: 20px;
+    width: 350px;
+    padding: 20px;
+    outline:none;
+    border:1px solid rgb(172, 170, 170);
+}
+.btn{
+    background-color:black;
+    color: white;
+    border-radius: 30px;
+    padding: 15px 50px;
+    font-size: 20px;
+    margin: 10px 0 20px 0;
+}
+.pp{
+    padding:20px;
+    color:rgb(155, 149, 149);
+}
+.not{
+    color:grey;
+}
+.sign{
+    color:black;
+}
+.ocean {
+    background-color : white;
+    width : 400px;
+    height : 500px;
+    border : 1px solid gray;
+    border-radius: 10px;
+
+}
+.bn {
+    color : rgb(19, 160, 215);
+    border : 2px solid gray;
+    padding : 10px 20px;
+    margin-left: 20px;
+    outline : none;
+    background-color: white;
+    border : 1px solid gray;
+    border-radius: 10px;
+}
+
+.img {
+    width : 100%;
+    height: 40%;
+    border-radius: 10px 10px 0px 0;
+}
+
+.and {
+    font-size: 24px;
+    padding : 2px 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.lock {
+    font-size: medium;
+    padding : 5px 20px;
+    color : gray;
+}
+.lock1{
+    height: 20px;
+    margin:20px 5px 0 20px;
+    float: left;
+
+}
+
+.inc {
+    padding : 0px 20px 0px ;
+    color : gray;
+}
