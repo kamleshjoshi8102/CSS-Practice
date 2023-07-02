@@ -75,7 +75,14 @@ body{
     margin:60px;
 }
 .fir{
+    /* transition: .3s; */
     align-items:first baseline;
+    color:grey;
+}
+.fir:hover{
+    /* background-color: red; */
+    color:black;
+    border-bottom: 2px solid rgb(0, 0, 0);
 }
 .total-price{
     /* border:2px solid gray; */
